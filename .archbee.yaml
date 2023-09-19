@@ -4,8 +4,8 @@ structure:
   summary: summary.md
   assets: assets
 shadowDocs: 
-  - "spark/**"
-  - "daccC/**/*"
+  - "spark/**.json"
+  - "daccC/**/*.java"
   - "docs/aaa/**"
   - "bau"
 footerTemplate: ""
