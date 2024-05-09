@@ -1,5 +1,5 @@
 ## Properties
-
+dadada
 |Name |Type |Default | Description|
 | --------------- | ---------------- | ----------- | ----------------------------------------------------- |
 | hoverSpaces | Boolean | `false ` | Whether mouse hover highlights space below the cursor |
